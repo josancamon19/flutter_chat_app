@@ -16,6 +16,10 @@ You can check out the corresponding Google code lab [here](https://codelabs.deve
 - [X] How to debug your Flutter app.
 - [X] How to run your Flutter app on a simulator/emulator and on a device.
 
+## Screens
+
+![screen](../master/preview_images/ios_screen.png)      
+
 ## What you'll need ?
 
 You need two pieces of software to complete this lab: the Flutter SDK, and an editor. This codelab assumes Android Studio, but you can use your preferred editor.
