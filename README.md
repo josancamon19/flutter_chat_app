@@ -16,9 +16,7 @@ You can check out the corresponding Google code lab [here](https://codelabs.deve
 - [X] How to debug your Flutter app.
 - [X] How to run your Flutter app on a simulator/emulator and on a device.
 
-## Screens
-
-![screen](../master/preview_images/ios_screen.png | width=120)      
+## Screens    
 
 ## What you'll need ?
 
