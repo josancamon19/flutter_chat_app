@@ -18,7 +18,7 @@ You can check out the corresponding Google code lab [here](https://codelabs.deve
 
 ## Screens
 
-![screen](../master/preview_images/ios_screen.png)      
+![screen](../master/preview_images/ios_screen.png | width=120)      
 
 ## What you'll need ?
 
