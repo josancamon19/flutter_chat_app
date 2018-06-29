@@ -1,6 +1,6 @@
 # Flutter Chat App
 
-A new Flutter application.
+This codelab provides a deeper dive into Flutter than [Write Your First Flutter App, part 1](https://codelabs.developers.google.com/codelabs/first-flutter-app-pt1/), and [part 2](https://codelabs.developers.google.com/codelabs/first-flutter-app-pt2/). If you want a gentler introduction to Flutter, start with those.
 
 ## Getting Started
 
